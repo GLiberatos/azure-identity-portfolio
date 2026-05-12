@@ -22,12 +22,12 @@ server1
 demo
 ```
 
-## Naming format
+## Naming Format
 ```text
 <resource-type>-<workload>-<environment>-<region>-<instance>
 ```
 
-## Naming components
+## Naming Components
 | Component     | Meaning                    | Example                     |
 | ------------- | -------------------------- | --------------------------- |
 | resource-type | The type of Azure resource | rg, vm, vnet                |
@@ -36,12 +36,12 @@ demo
 | region        | Azure region               | eastus                      |
 | instance      | Number for uniqueness      | 001                         |
 
-## Example resource group name
+## Example Resource Group Name
 ```text
 rg-identity-lab-eastus-001
 ```
 
-## Standard abbreviations
+## Standard Abbreviations
 | Azure Resource          | Abbreviation |
 | ----------------------- | ------------ |
 | Resource Group          | rg           |
@@ -55,7 +55,7 @@ rg-identity-lab-eastus-001
 | Log Analytics Workspace | law          |
 | Key Vault               | kv           |
 
-## Portfolio naming standard
+## Portfolio Naming Standard
 ```text
 <resource-type>-<workload>-lab-<region>-<###>
 ```
@@ -70,18 +70,19 @@ rg-identity-lab-eastus-001
 | Virtual Machine         | vm-dc-lab-eastus-001         |
 | Log Analytics Workspace | law-identity-lab-eastus-001  |
 
-## Naming rules
+## Naming Rules
+
 The following rules will be used:
 
-Use lowercase letters where supported
-Avoid spaces
-Avoid special characters unless required
-Keep names readable
-Use numbers for multiple instances
-Use abbreviations consistently
-Do not include sensitive information in resource names
+- Use lowercase letters where supported
+- Avoid spaces
+- Avoid special characters unless required
+- Keep names readable
+- Use numbers for multiple instances
+- Use abbreviations consistently
+- Do not include sensitive information in resource names
 
-## Beginner lesson
+## Beginner Lesson
 A good Azure resource name should answer three basic questions:
 
 1. What is it?
@@ -89,15 +90,17 @@ A good Azure resource name should answer three basic questions:
 3. Where does it belong?
 
 Example:
-rg-identity-lab-eastus-001
 
+```text
+rg-identity-lab-eastus-001
+```
 This tells me it is:
 
-A resource group
-For identity work
-In a lab environment
-Located in East US
-The first instance
+- A resource group
+- For identity work
+- In a lab environment
+- Located in East US
+- The first instance
 
-## Future improvement
+## Future Improvement
 In a future project, I may convert this naming convention into a PowerShell or Bicep template so that resources can be created more consistently.
