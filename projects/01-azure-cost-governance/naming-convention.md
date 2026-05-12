@@ -23,7 +23,9 @@ demo
 ```
 
 ## Naming format
+```text
 <resource-type>-<workload>-<environment>-<region>-<instance>
+```text
 
 ## Naming components
 | Component     | Meaning                    | Example                     |
