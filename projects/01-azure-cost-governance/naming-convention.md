@@ -37,7 +37,9 @@ demo
 | instance      | Number for uniqueness      | 001                         |
 
 ## Example resource group name
+```text
 rg-identity-lab-eastus-001
+```
 
 ## Standard abbreviations
 | Azure Resource          | Abbreviation |
@@ -54,7 +56,9 @@ rg-identity-lab-eastus-001
 | Key Vault               | kv           |
 
 ## Portfolio naming standard
+```text
 <resource-type>-<workload>-lab-<region>-<###>
+```
 
 ## Examples
 | Resource Type           | Example Name                 |
