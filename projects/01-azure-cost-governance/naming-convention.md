@@ -20,6 +20,7 @@ newrg
 azurething
 server1
 demo
+'''
 
 ## Naming format
 
