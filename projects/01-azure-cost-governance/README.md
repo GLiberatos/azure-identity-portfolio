@@ -107,11 +107,13 @@ This project creates the foundation for future hands-on Azure and Microsoft Entr
 |---|---|
 | Project folder created | Complete |
 | Project README created | Complete |
-| Naming convention documented | In Progress |
+| Naming convention documented | Complete |
 | Azure budget configured | Not Started |
 | Screenshots added | Not Started |
 | Final validation completed | Not Started |
 
 ## Next Steps
 
-The next step is to define a clear Azure naming convention that will be used across future portfolio projects.
+The next step is to define a tagging standard for future Azure resources.
+
+Tags will help support resource ownership, cost tracking, cleanup, and portfolio documentation.
