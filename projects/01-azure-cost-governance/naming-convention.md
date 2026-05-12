@@ -19,7 +19,8 @@ testvm
 newrg
 azurething
 server1
-demo ```
+demo
+```
 
 
 ## Naming format
