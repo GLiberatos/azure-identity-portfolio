@@ -38,6 +38,24 @@ demo
 | region        | Azure region               | eastus                      |
 | instance      | Number for uniqueness      | 001                         |
 
+### Workload Naming Note
+
+The `workload` field should describe the purpose of the resource.
+
+For shared resources, this may describe a broader workload such as:
+
+- identity
+- systems
+- security
+- automation
+
+For specific servers or services, this may describe the resource role, such as:
+
+- dc for domain controller
+- web for web server
+- sql for database server
+- mgmt for management server
+
 ## Example Resource Group Name
 
 ```text
