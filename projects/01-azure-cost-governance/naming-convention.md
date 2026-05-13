@@ -48,16 +48,16 @@ rg-identity-lab-eastus-001
 
 | Azure Resource          | Abbreviation |
 | ----------------------- | ------------ |
-| Resource Group          | rg           |
-| Virtual Network         | vnet         |
-| Subnet                  | snet         |
-| Network Security Group  | nsg          |
-| Virtual Machine         | vm           |
-| Network Interface       | nic          |
-| Public IP Address       | pip          |
-| Storage Account         | st           |
-| Log Analytics Workspace | law          |
-| Key Vault               | kv           |
+| Resource Group          |     rg       |
+| Virtual Network         |     vnet     |
+| Subnet                  |     snet     |
+| Network Security Group  |     nsg      |
+| Virtual Machine         |     vm       |
+| Network Interface       |     nic      |
+| Public IP Address       |     pip      |
+| Storage Account         |     st       |
+| Log Analytics Workspace |     law      |
+| Key Vault               |     kv       |
 
 ## Portfolio Naming Standard
 
