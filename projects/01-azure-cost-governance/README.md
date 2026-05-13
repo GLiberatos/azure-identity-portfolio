@@ -99,6 +99,7 @@ This project creates the foundation for future hands-on Azure and Microsoft Entr
 |---|---|
 | README.md | Main project overview |
 | naming-convention.md | Defines the Azure naming standard |
+| tagging-standard.md | Defines the Azure tagging standard |
 | screenshots/ | Stores sanitized screenshots for documentation |
 
 ## Current Status
@@ -108,12 +109,13 @@ This project creates the foundation for future hands-on Azure and Microsoft Entr
 | Project folder created | Complete |
 | Project README created | Complete |
 | Naming convention documented | Complete |
+| Tagging standard documented | Complete |
 | Azure budget configured | Not Started |
 | Screenshots added | Not Started |
 | Final validation completed | Not Started |
 
 ## Next Steps
 
-The next step is to define a tagging standard for future Azure resources.
+The next step is to configure an Azure budget and cost alerts for the lab subscription.
 
-Tags will help support resource ownership, cost tracking, cleanup, and portfolio documentation.
+This will help monitor monthly Azure spending and reduce the risk of unexpected charges during future portfolio projects.
