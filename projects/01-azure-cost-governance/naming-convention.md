@@ -49,12 +49,17 @@ For shared resources, this may describe a broader workload such as:
 - security
 - automation
 
-For specific servers or services, this may describe the resource role, such as:
+For specific servers or services, this may describe the resource role.
 
-- dc for domain controller
-- web for web server
-- sql for database server
-- mgmt for management server
+### Common Role Abbreviations
+
+| Role / Function | Abbreviation |
+|---|---|
+| Domain Controller | dc |
+| Web Server | web |
+| Database Server | sql |
+| Management Server | mgmt |
+| Jumpbox | jump |
 
 ## Example Resource Group Name
 
@@ -73,7 +78,7 @@ rg-identity-lab-eastus-001
 | Virtual Machine         |     vm       |
 | Network Interface       |     nic      |
 | Public IP Address       |     pip      |
-| Storage Account         |     st       |
+| Storage Account         |     sa       |
 | Log Analytics Workspace |     law      |
 | Key Vault               |     kv       |
 
