@@ -59,7 +59,6 @@ This portfolio is aligned with roles such as:
 ## Repository Structure
 
 ```text
-
 Azure-Identity-Portfolio/
 ├── assets/
 ├── diagrams/
@@ -73,16 +72,16 @@ Azure-Identity-Portfolio/
 
 This portfolio is intended to demonstrate skills in:
 
-Technical documentation
-Azure governance
-Cost awareness
-Resource naming and tagging standards
-Identity administration
-Hybrid identity planning
-Access control design
-Security-focused thinking
-PowerShell automation
-GitHub portfolio management
+- Technical documentation
+- Azure governance
+- Cost awareness
+- Resource naming and tagging standards
+- Identity administration
+- Hybrid identity planning
+- Access control design
+- Security-focused thinking
+- PowerShell automation
+- GitHub portfolio management
 
 ## Documentation Standards
 
@@ -90,22 +89,24 @@ All projects in this repository are documented using a consistent structure.
 
 Each project may include:
 
-Business problem
-Objective
-Environment
-Implementation steps
-Validation steps
-Screenshots
-Troubleshooting notes
-Security considerations
-Lessons learned
-Next improvements
+- Business problem
+- Objective
+- Environment
+- Implementation steps
+- Validation steps
+- Screenshots
+- Troubleshooting notes
+- Security considerations
+- Lessons learned
+- Next improvements
 
 ## Public Documentation Notes
 
 No production data, customer data, passwords, secrets, tenant IDs, subscription IDs, personal billing details, or private information are included in this repository.
 
 Screenshots are sanitized before being published.
+
+## Current Status
 
 | Area                                | Status   |
 | ----------------------------------- | -------- |
