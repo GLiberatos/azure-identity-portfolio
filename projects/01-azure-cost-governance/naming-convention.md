@@ -23,11 +23,13 @@ demo
 ```
 
 ## Naming Format
+
 ```text
 <resource-type>-<workload>-<environment>-<region>-<instance>
 ```
 
 ## Naming Components
+
 | Component     | Meaning                    | Example                     |
 | ------------- | -------------------------- | --------------------------- |
 | resource-type | The type of Azure resource | rg, vm, vnet                |
@@ -37,11 +39,13 @@ demo
 | instance      | Number for uniqueness      | 001                         |
 
 ## Example Resource Group Name
+
 ```text
 rg-identity-lab-eastus-001
 ```
 
 ## Standard Abbreviations
+
 | Azure Resource          | Abbreviation |
 | ----------------------- | ------------ |
 | Resource Group          | rg           |
@@ -56,11 +60,13 @@ rg-identity-lab-eastus-001
 | Key Vault               | kv           |
 
 ## Portfolio Naming Standard
+
 ```text
 <resource-type>-<workload>-lab-<region>-<###>
 ```
 
 ## Examples
+
 | Resource Type           | Example Name                 |
 | ----------------------- | ---------------------------- |
 | Resource Group          | rg-identity-lab-eastus-001   |
@@ -83,6 +89,7 @@ The following rules will be used:
 - Do not include sensitive information in resource names
 
 ## Beginner Lesson
+
 A good Azure resource name should answer three basic questions:
 
 1. What is it?
@@ -94,6 +101,7 @@ Example:
 ```text
 rg-identity-lab-eastus-001
 ```
+
 This tells me it is:
 
 - A resource group
@@ -103,4 +111,5 @@ This tells me it is:
 - The first instance
 
 ## Future Improvement
+
 In a future project, I may convert this naming convention into a PowerShell or Bicep template so that resources can be created more consistently.
