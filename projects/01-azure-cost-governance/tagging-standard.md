@@ -58,7 +58,7 @@ The following tags will be required for Azure resources created in this portfoli
 | Environment        | Lab                      | Identifies the environment type         |
 | Workload           | IdentityPortfolio        | Identifies the workload or project area |
 | Project            | Project01-CostGovernance | Identifies the portfolio project        |
-| Owner              | GeorgeLiberatos          | Identifies the resource owner           |
+| Owner              | PortfolioOwner           | Identifies the resource owner           |
 | CostCenter         | PortfolioLab             | Supports cost tracking                  |
 | DataClassification | PublicDemo               | Identifies the sensitivity level        |
 | ManagedBy          | Manual                   | Identifies how the resource is managed  |
@@ -133,7 +133,7 @@ The following example tag set would be used for Project 01 resources.
 | Environment        | Lab                      |
 | Workload           | IdentityPortfolio        |
 | Project            | Project01-CostGovernance |
-| Owner              | GeorgeLiberatos          |
+| Owner              | PortfolioOwner           |
 | CostCenter         | PortfolioLab             |
 | DataClassification | PublicDemo               |
 | ManagedBy          | Manual                   |
@@ -156,7 +156,7 @@ Example tags:
 ```text
 Environment = Lab
 Project = Project01-CostGovernance
-Owner = GeorgeLiberatos
+Owner = PortfolioOwner
 CostCenter = PortfolioLab
 ```
 
