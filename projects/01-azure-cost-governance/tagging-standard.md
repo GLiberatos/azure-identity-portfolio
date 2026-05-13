@@ -61,7 +61,7 @@ The following tags will be required for Azure resources created in this portfoli
 | Owner              | PortfolioOwner           | Identifies the resource owner           |
 | CostCenter         | PortfolioLab             | Supports cost tracking                  |
 | DataClassification | PublicDemo               | Identifies the sensitivity level        |
-| ManagedBy          | Manual                   | Identifies how the resource is managed  |
+| ProvisioningMethod | Manual                   | Identifies how the resource is created  |
 | ExpirationDate     | 2026-06-30               | Supports cleanup and review             |
 
 ## Standard Tag Values
@@ -106,7 +106,7 @@ DataClassification = PublicDemo
 
 No real production data, customer data, passwords, secrets, tenant IDs, or personal information should be stored in publicly documented portfolio resources.
 
-### ManagedBy
+### ProvisioningMethod
 
 | Value       | Meaning                              |
 | ----------- | ------------------------------------ |
@@ -119,7 +119,7 @@ No real production data, customer data, passwords, secrets, tenant IDs, or perso
 At the beginning of this portfolio, most resources will use:
 
 ```text
-ManagedBy = Manual
+ProvisioningMethod = Manual
 ```
 
 As automation is added later, this value may change.
@@ -136,7 +136,7 @@ The following example tag set would be used for Project 01 resources.
 | Owner              | PortfolioOwner           |
 | CostCenter         | PortfolioLab             |
 | DataClassification | PublicDemo               |
-| ManagedBy          | Manual                   |
+| ProvisioningMethod | Manual                   |
 | ExpirationDate     | 2026-06-30               |
 
 ## Beginner Lesson
@@ -184,7 +184,7 @@ Project
 Owner
 CostCenter
 DataClassification
-ManagedBy
+ProvisioningMethod
 ExpirationDate
 ```
 
