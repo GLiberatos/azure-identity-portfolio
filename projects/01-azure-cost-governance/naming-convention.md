@@ -42,12 +42,16 @@ demo
 
 The `workload` field should describe the purpose of the resource.
 
-For shared resources, this may describe a broader workload such as:
+For shared resources, this may describe a broader workload.
 
-- identity
-- systems
-- security
-- automation
+### Common Workload Values
+
+| Workload | Purpose |
+|---|---|
+| identity | Identity and access management resources |
+| systems | General systems engineering resources |
+| security | Security-focused resources |
+| automation | PowerShell, scripting, or infrastructure automation resources |
 
 For specific servers or services, this may describe the resource role.
 
@@ -69,18 +73,18 @@ rg-identity-lab-eastus-001
 
 ## Standard Abbreviations
 
-| Azure Resource          | Abbreviation |
-| ----------------------- | ------------ |
-| Resource Group          |     rg       |
-| Virtual Network         |     vnet     |
-| Subnet                  |     snet     |
-| Network Security Group  |     nsg      |
-| Virtual Machine         |     vm       |
-| Network Interface       |     nic      |
-| Public IP Address       |     pip      |
-| Storage Account         |     sa       |
-| Log Analytics Workspace |     law      |
-| Key Vault               |     kv       |
+| Azure Resource | Abbreviation |
+|---|---|
+| Resource Group | rg |
+| Virtual Network | vnet |
+| Subnet | snet |
+| Network Security Group | nsg |
+| Virtual Machine | vm |
+| Network Interface | nic |
+| Public IP Address | pip |
+| Storage Account | sa |
+| Log Analytics Workspace | law |
+| Key Vault | kv |
 
 ## Portfolio Naming Standard
 
