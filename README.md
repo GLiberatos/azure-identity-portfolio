@@ -1,4 +1,4 @@
-# azure-identity-portfolio
+# Azure-Identity-Portfolio
 
 ## Business Problem
 What real-world problem does this solve?
