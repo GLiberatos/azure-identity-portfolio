@@ -54,7 +54,7 @@ This project demonstrates beginner cloud governance skills, including:
 | Cloud Platform | Microsoft Azure |
 | Identity Platform | Microsoft Entra ID |
 | Lab Type | Portfolio / Learning Lab |
-| License Type | Microsoft 365 E5 Developer |
+| Azure Subscription Type | Visual Studio Enterprise / MCT Azure credit subscription |
 | Monthly Budget Goal | $50 |
 | Repository | Azure-Identity-Portfolio |
 
@@ -93,13 +93,10 @@ A well-managed cloud environment should be:
 
 This project creates the foundation for future hands-on Azure and Microsoft Entra ID labs.
 
-## Project Files
-
-| File / Folder | Purpose |
-|---|---|
 | README.md | Main project overview |
-| naming-convention.md | Defines the Azure naming standard |
-| tagging-standard.md | Defines the Azure tagging standard |
+| 01-naming-convention.md | Defines the Azure naming standard |
+| 02-tagging-standard.md | Defines the Azure tagging standard |
+| 03-cost-control-runbook.md | Documents the Azure budget and cost alert configuration |
 | screenshots/ | Stores sanitized screenshots for documentation |
 
 ## Current Status
@@ -110,12 +107,12 @@ This project creates the foundation for future hands-on Azure and Microsoft Entr
 | Project README created | Complete |
 | Naming convention documented | Complete |
 | Tagging standard documented | Complete |
-| Azure budget configured | Not Started |
-| Screenshots added | Not Started |
-| Final validation completed | Not Started |
+| Azure budget configured | Complete |
+| Screenshots added | Complete |
+| Final validation completed | In Progress |
 
 ## Next Steps
 
-The next step is to configure an Azure budget and cost alerts for the lab subscription.
+The next step is to complete final validation for Project 01.
 
-This will help monitor monthly Azure spending and reduce the risk of unexpected charges during future portfolio projects.
+This includes confirming that documentation, budget configuration, screenshots, and lessons learned are complete before closing the project.
