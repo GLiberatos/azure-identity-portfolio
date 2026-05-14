@@ -121,20 +121,31 @@ No production data, customer data, passwords, secrets, tenant IDs, subscription 
 
 Screenshots are sanitized before being published.
 
-## Current Status
+## Current Portfolio Status
 
 | Area | Status |
 |---|---|
 | Portfolio repository structure | Complete |
-| Project 01 documentation foundation | Complete |
-| Naming convention standard | Complete |
-| Tagging standard | Complete |
-| Azure budget and cost alerts | Planned |
+| Project roadmap | Complete |
+| Azure governance track | In Progress |
 | Microsoft Entra ID track | Planned |
 | Microsoft 365 administration track | Planned |
 | Intune / endpoint management track | Planned |
 | Hybrid identity track | Planned |
 | Azure systems engineering track | Planned |
 | Automation track | Planned |
+| Security monitoring track | Planned |
 | Compliance mapping track | Planned |
 | AI-aware governance track | Planned |
+
+## Current Active Project
+
+| Item | Status |
+|---|---|
+| Active project | Project 01 — Azure Cost Governance & Portfolio Foundation |
+| Project documentation foundation | Complete |
+| Naming convention standard | Complete |
+| Tagging standard | Complete |
+| Azure budget and cost alerts | Planned |
+| Screenshots and validation | Planned |
+| Lessons learned | Planned |
