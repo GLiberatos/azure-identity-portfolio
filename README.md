@@ -88,6 +88,7 @@ This portfolio is aligned with roles such as:
 Azure-Identity-Portfolio/
 ├── assets/
 ├── diagrams/
+├── docs/
 ├── projects/
 ├── scripts/
 ├── templates/
@@ -125,6 +126,12 @@ Each project may include:
 - Security considerations
 - Lessons learned
 - Next improvements
+
+## LinkedIn Progress Posts
+
+I also share project progress and lessons learned on LinkedIn as part of this portfolio.
+
+[View LinkedIn Post Tracker](docs/linkedin-posts.md)
 
 ## Public Documentation Notes
 
