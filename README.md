@@ -44,7 +44,7 @@ This portfolio is aligned with roles such as:
 
 | Project | Status | Focus |
 |---|---|---|
-| [Project 01 — Azure Cost Governance & Portfolio Foundation](projects/01-azure-cost-governance/) | In Progress | Naming, tagging, cost governance, documentation |
+| [Project 01 — Azure Cost Governance & Portfolio Foundation](projects/01-azure-cost-governance/) | Complete | Naming, tagging, cost governance, documentation |
 | [Project 02 — Entra Tenant Baseline](projects/02-entra-tenant-baseline/) | Planned | Users, groups, roles, tenant structure |
 | [Project 03 — Microsoft 365 Tenant Baseline](projects/03-m365-tenant-baseline/) | Planned | M365 admin center, users, licenses, service settings |
 | [Project 04 — Hybrid Identity Lab](projects/04-hybrid-identity-lab/) | Planned | AD DS, Entra Connect, sync validation |
@@ -138,7 +138,7 @@ Screenshots are sanitized before being published.
 |---|---|
 | Portfolio repository structure | Complete |
 | Project roadmap | Complete |
-| Azure governance track | In Progress |
+| Azure governance foundation | Complete |
 | Microsoft Entra ID track | Planned |
 | Microsoft 365 administration track | Planned |
 | Intune / endpoint management track | Planned |
@@ -155,10 +155,9 @@ Screenshots are sanitized before being published.
 
 | Item | Status |
 |---|---|
-| Active project | Project 01 — Azure Cost Governance & Portfolio Foundation |
-| Project documentation foundation | Complete |
-| Naming convention standard | Complete |
-| Tagging standard | Complete |
-| Azure budget and cost alerts | Planned |
+| Active project | Project 02 — Entra Tenant Baseline |
+| Project planning | Planned |
+| Tenant baseline documentation | Planned |
+| Users, groups, and roles | Planned |
 | Screenshots and validation | Planned |
 | Lessons learned | Planned |
