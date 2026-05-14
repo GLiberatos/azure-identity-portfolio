@@ -65,6 +65,7 @@ This portfolio is aligned with roles such as:
 | Microsoft Azure | Cloud infrastructure and governance labs |
 | Microsoft Entra ID | Identity and access management labs |
 | Microsoft 365 E5 Developer Tenant | Entra ID and Microsoft 365 testing |
+| Microsoft Intune | Endpoint management, MDM, compliance, and device configuration labs |
 | Active Directory Domain Services | Hybrid identity lab environment |
 | Entra Connect | Directory synchronization testing |
 | GitHub | Public portfolio documentation |
