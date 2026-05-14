@@ -8,7 +8,7 @@ The purpose of this tracker is to connect my hands-on GitHub portfolio work with
 
 | Date | Project | Topic | GitHub Project | LinkedIn Post |
 |---|---|---|---|---|
-| 2026-05-14 | Project 01 — Azure Cost Governance & Portfolio Foundation | Azure naming standards, tagging standards, budget alerts, cost governance, and documentation | [View Post](https://www.linkedin.com/feed/update/urn:li:share:7460791995976859648/)
+| 2026-05-14 | Project 01 — Azure Cost Governance & Portfolio Foundation | Azure naming standards, tagging standards, budget alerts, cost governance, and documentation | [View Project](../projects/01-azure-cost-governance/) | [View Post](https://www.linkedin.com/feed/update/urn:li:share:7460791995976859648/) |
 
 ## Notes
 
