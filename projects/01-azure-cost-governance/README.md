@@ -70,7 +70,6 @@ This project demonstrates beginner cloud governance skills, including:
 
 ### Out of Scope for Project 01
 
-- Azure budget creation
 - Azure resource deployment
 - PowerShell automation
 - Conditional Access
