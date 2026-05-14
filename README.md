@@ -25,10 +25,17 @@ This portfolio is aligned with roles such as:
 - Azure tagging standards
 - Microsoft Entra ID administration
 - Hybrid identity with Active Directory and Entra Connect
+- Microsoft 365 administration
+- Exchange Online / Outlook administration
+- SharePoint Online and OneDrive governance
+- Intune / MDM endpoint management
 - Conditional Access and MFA
 - Privileged Identity Management
 - Identity Governance
 - Azure systems engineering
+- Security monitoring and audit review
+- Compliance and framework mapping
+- AI-aware identity and governance
 - PowerShell and Microsoft Graph automation
 
 ## Project Index
@@ -36,13 +43,20 @@ This portfolio is aligned with roles such as:
 | Project | Status | Focus |
 |---|---|---|
 | [Project 01 — Azure Cost Governance & Portfolio Foundation](projects/01-azure-cost-governance/) | In Progress | Naming, tagging, cost governance, documentation |
-| [Project 02 — Entra Tenant Baseline](projects/02-entra-tenant-baseline) | Planned | Users, groups, roles, tenant structure |
-| [Project 03 — Hybrid Identity Lab](projects/03-hybrid-identity-lab) | Planned | AD DS, Entra Connect, sync validation |
-| [Project 04 — Conditional Access Lab](projects/04-entra-conditional-access-lab) | Planned | MFA, named locations, access controls |
-| [Project 05 — Privileged Identity Management Lab](projects/05-entra-pim-lab) | Planned | Just-in-time admin access |
-| [Project 06 — Identity Governance Lab](projects/06-entra-identity-governance-lab) | Planned | Access reviews and lifecycle workflows |
-| [Project 07 — Azure Systems Engineering Lab](projects/07-azure-systems-engineering-lab) | Planned | VMs, networking, monitoring, backup |
-| [Project 08 — Azure Automation with PowerShell](projects/08-azure-automation-powershell) | Planned | PowerShell and Microsoft Graph automation |
+| [Project 02 — Entra Tenant Baseline](projects/02-entra-tenant-baseline/) | Planned | Users, groups, roles, tenant structure |
+| [Project 03 — Microsoft 365 Tenant Baseline](projects/03-m365-tenant-baseline/) | Planned | M365 admin center, users, licenses, service settings |
+| [Project 04 — Hybrid Identity Lab](projects/04-hybrid-identity-lab/) | Planned | AD DS, Entra Connect, sync validation |
+| [Project 05 — Conditional Access Lab](projects/05-entra-conditional-access-lab/) | Planned | MFA, named locations, access controls |
+| [Project 06 — Intune / Endpoint Management Lab](projects/06-intune-endpoint-management-lab/) | Planned | MDM, device enrollment, compliance policies |
+| [Project 07 — Exchange Online / Outlook Administration](projects/07-exchange-online-outlook-admin/) | Planned | Mailboxes, shared mailboxes, groups, mail flow basics |
+| [Project 08 — SharePoint and OneDrive Governance](projects/08-sharepoint-onedrive-governance/) | Planned | Sites, permissions, sharing, data governance |
+| [Project 09 — Privileged Identity Management Lab](projects/09-entra-pim-lab/) | Planned | Just-in-time admin access |
+| [Project 10 — Identity Governance Lab](projects/10-entra-identity-governance-lab/) | Planned | Access reviews and lifecycle workflows |
+| [Project 11 — Azure Systems Engineering Lab](projects/11-azure-systems-engineering-lab/) | Planned | VMs, networking, monitoring, backup |
+| [Project 12 — PowerShell and Microsoft Graph Automation](projects/12-powershell-graph-automation/) | Planned | Reporting, administration, repeatable automation |
+| [Project 13 — Security Monitoring and Audit Review](projects/13-security-monitoring-audit-review/) | Planned | Logs, alerts, sign-in review, audit evidence |
+| [Project 14 — Compliance and Framework Mapping](projects/14-compliance-framework-mapping/) | Planned | HIPAA, GDPR, NIST, CIS, Zero Trust alignment |
+| [Project 15 — AI-Aware Identity and Governance](projects/15-ai-aware-identity-governance/) | Planned | Copilot readiness, AI access risks, identity governance |
 
 ## Lab Environment
 
@@ -108,13 +122,18 @@ Screenshots are sanitized before being published.
 
 ## Current Status
 
-| Area                                | Status   |
-| ----------------------------------- | -------- |
-| Portfolio repository structure      | Complete |
+| Area | Status |
+|---|---|
+| Portfolio repository structure | Complete |
 | Project 01 documentation foundation | Complete |
-| Naming convention standard          | Complete |
-| Tagging standard                    | Complete |
-| Azure budget and cost alerts        | Planned  |
-| Entra tenant baseline               | Planned  |
-| Hybrid identity lab                 | Planned  |
-
+| Naming convention standard | Complete |
+| Tagging standard | Complete |
+| Azure budget and cost alerts | Planned |
+| Microsoft Entra ID track | Planned |
+| Microsoft 365 administration track | Planned |
+| Intune / endpoint management track | Planned |
+| Hybrid identity track | Planned |
+| Azure systems engineering track | Planned |
+| Automation track | Planned |
+| Compliance mapping track | Planned |
+| AI-aware governance track | Planned |
