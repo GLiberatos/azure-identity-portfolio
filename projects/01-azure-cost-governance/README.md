@@ -68,7 +68,7 @@ This project demonstrates beginner cloud governance skills, including:
 - Screenshot organization
 - Portfolio structure
 
-### Out of Scope for Day 1
+### Out of Scope for Project 01
 
 - Azure budget creation
 - Azure resource deployment
@@ -93,6 +93,10 @@ A well-managed cloud environment should be:
 
 This project creates the foundation for future hands-on Azure and Microsoft Entra ID labs.
 
+## Project Files
+
+| File / Folder | Purpose |
+|---|---|
 | README.md | Main project overview |
 | 01-naming-convention.md | Defines the Azure naming standard |
 | 02-tagging-standard.md | Defines the Azure tagging standard |
