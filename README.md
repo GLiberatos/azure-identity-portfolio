@@ -18,35 +18,29 @@ This portfolio is aligned with roles such as:
 - Cloud Systems Engineer
 - Hybrid Identity Engineer
 
-## Current Focus Areas
+## Portfolio Tracks
 
-- Azure governance and cost controls
-- Azure resource naming standards
-- Azure tagging standards
-- Microsoft Entra ID administration
-- Hybrid identity with Active Directory and Entra Connect
-- Microsoft 365 administration
-- Exchange Online / Outlook administration
-- SharePoint Online, OneDrive, and SharePoint Advanced Management governance
-- Microsoft Purview compliance and data governance
-- Intune / MDM endpoint management
-- Conditional Access and MFA
-- Privileged Identity Management
-- Identity Governance
-- Azure systems engineering
-- Security monitoring, audit review, and Microsoft Sentinel
-- Power Platform Admin Center governance
-- Compliance and framework mapping
-- AI-aware identity, Copilot readiness, and governance
-- PowerShell and Microsoft Graph automation
-- Okta AD integration and IAM platform comparison
+This portfolio is organized into several Microsoft cloud and identity engineering tracks.
+
+| Track | Focus |
+|---|---|
+| Azure Governance | Cost controls, naming standards, tagging standards, policy, and operational structure |
+| Microsoft Entra ID | Users, groups, roles, Conditional Access, MFA, PIM, and Identity Governance |
+| Hybrid Identity | Active Directory, Entra Connect, sync validation, and source-of-authority concepts |
+| Microsoft 365 Administration | Tenant administration, Exchange Online, SharePoint Online, OneDrive, and service governance |
+| Endpoint Management | Intune, MDM, device enrollment, compliance policies, and device configuration |
+| Security and Monitoring | Audit review, sign-in logs, Microsoft Sentinel concepts, and security operations awareness |
+| Compliance and Data Governance | Microsoft Purview, HIPAA, GDPR, NIST, CIS, Zero Trust, retention, and data protection concepts |
+| Automation | PowerShell, Microsoft Graph, reporting, and repeatable administration |
+| AI-Aware Governance | Copilot readiness, AI access risks, data exposure, and identity governance |
+| IAM Platform Comparison | Okta AD integration and comparison with Microsoft Entra ID |
 
 ## Project Index
 
 | Project | Status | Focus |
 |---|---|---|
 | [Project 01 — Azure Cost Governance & Portfolio Foundation](projects/01-azure-cost-governance/) | Complete | Naming, tagging, cost governance, documentation |
-| [Project 02 — Entra Tenant Baseline](projects/02-entra-tenant-baseline/) | Planned | Users, groups, roles, tenant structure |
+| [Project 02 — Entra Tenant Baseline](projects/02-entra-tenant-baseline/) | In Progress | Users, groups, roles, tenant structure |
 | [Project 03 — Microsoft 365 Tenant Baseline](projects/03-m365-tenant-baseline/) | Planned | M365 admin center, users, licenses, service settings |
 | [Project 04 — Hybrid Identity Lab](projects/04-hybrid-identity-lab/) | Planned | AD DS, Entra Connect, sync validation |
 | [Project 05 — Conditional Access Lab](projects/05-entra-conditional-access-lab/) | Planned | MFA, named locations, access controls |
@@ -102,16 +96,18 @@ Azure-Identity-Portfolio/
 
 This portfolio is intended to demonstrate skills in:
 
-- Technical documentation
-- Azure governance
-- Cost awareness
+- Technical documentation and runbook creation
+- Azure governance and cost awareness
 - Resource naming and tagging standards
-- Identity administration
-- Hybrid identity planning
-- Access control design
-- Security-focused thinking
-- PowerShell automation
-- GitHub portfolio management
+- Microsoft Entra ID administration
+- Hybrid identity planning and validation
+- Microsoft 365 administration
+- Endpoint management with Intune / MDM
+- Access control and least privilege design
+- Security monitoring and audit review
+- Compliance and framework mapping
+- PowerShell and Microsoft Graph automation
+- Public portfolio communication through GitHub and LinkedIn
 
 ## Documentation Standards
 
@@ -142,32 +138,12 @@ No production data, customer data, passwords, secrets, tenant IDs, subscription 
 
 Screenshots are sanitized before being published.
 
-## Current Portfolio Status
-
-| Area | Status |
-|---|---|
-| Portfolio repository structure | Complete |
-| Project roadmap | Complete |
-| Azure governance foundation | Complete |
-| Microsoft Entra ID track | Planned |
-| Microsoft 365 administration track | Planned |
-| Intune / endpoint management track | Planned |
-| Hybrid identity track | Planned |
-| Azure systems engineering track | Planned |
-| Automation track | Planned |
-| Security monitoring and Sentinel track | Planned |
-| SharePoint, OneDrive, and SAM governance track | Planned |
-| Microsoft Purview and compliance track | Planned |
-| Power Platform Admin Center governance track | Planned |
-| AI-aware governance track | Planned |
-| Okta IAM comparison track | Planned |
-
 ## Current Active Project
 
 | Item | Status |
 |---|---|
 | Active project | Project 02 — Entra Tenant Baseline |
-| Project planning | Planned |
+| Project planning | In Progress |
 | Tenant baseline documentation | Planned |
 | Users, groups, and roles | Planned |
 | Screenshots and validation | Planned |
