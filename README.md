@@ -39,6 +39,7 @@ This portfolio is aligned with roles such as:
 - Compliance and framework mapping
 - AI-aware identity, Copilot readiness, and governance
 - PowerShell and Microsoft Graph automation
+- Okta AD integration and IAM platform comparison
 
 ## Project Index
 
@@ -60,6 +61,7 @@ This portfolio is aligned with roles such as:
 | [Project 14 — Microsoft Purview and Compliance Mapping](projects/14-purview-compliance-framework-mapping/) | Planned | Purview, HIPAA, GDPR, NIST, CIS, Zero Trust alignment |
 | [Project 15 — AI-Aware Identity and Governance](projects/15-ai-aware-identity-governance/) | Planned | Copilot readiness, AI access risks, identity governance |
 | [Project 16 — Power Platform Admin Center Governance](projects/16-power-platform-admin-center-governance/) | Planned | Environments, DLP policies, connectors, Power Platform governance |
+| [Project 17 — Okta AD Integration and IAM Comparison](projects/17-okta-ad-integration-iam-comparison/) | Planned | Okta AD Agent, user/group import, delegated authentication, app assignment, IAM comparison |
 
 ## Lab Environment
 
@@ -81,6 +83,7 @@ This portfolio is aligned with roles such as:
 | GitHub | Public portfolio documentation |
 | PowerShell | Automation and administration |
 | Microsoft Graph | API-based reporting and automation |
+| Okta Developer Tenant | Okta AD Agent, IAM integration, and identity platform comparison labs |
 
 ## Repository Structure
 
@@ -157,6 +160,7 @@ Screenshots are sanitized before being published.
 | Microsoft Purview and compliance track | Planned |
 | Power Platform Admin Center governance track | Planned |
 | AI-aware governance track | Planned |
+| Okta IAM comparison track | Planned |
 
 ## Current Active Project
 
