@@ -95,6 +95,8 @@ This project demonstrates identity administration fundamentals, including:
 |---|---|
 | README.md | Main project overview |
 | 01-tenant-baseline-inventory.md | Documents the current Entra tenant baseline |
+| 02-tenant-overview.md | Documents high-level tenant context and sync state |
+| 03-user-inventory.md | Documents user inventory and identity types |
 | screenshots/ | Stores sanitized screenshots for documentation |
 
 ## Current Status
@@ -103,10 +105,14 @@ This project demonstrates identity administration fundamentals, including:
 |---|---|
 | Project folder created | Complete |
 | Project README created | Complete |
-| Tenant baseline inventory documented | Planned |
-| Screenshots added | Planned |
+| Tenant baseline inventory documented | Complete |
+| Tenant overview documented | Complete |
+| User inventory documented | Complete |
+| Screenshots added | Complete |
 | Final validation completed | Planned |
 
 ## Next Steps
 
-The next step is to document the current Entra tenant baseline before making configuration changes.
+The next step is to review groups and administrative roles in Microsoft Entra ID.
+
+This will help document group types, role assignments, and privileged access before future Conditional Access, PIM, Identity Governance, or automation work.
